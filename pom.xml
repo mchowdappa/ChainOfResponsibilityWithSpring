@@ -8,7 +8,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<SpringVersion>4.0.6.RELEASE</SpringVersion>
+		<SpringVersion>5.0.8.RELEASE</SpringVersion>
 	</properties>
 
 	<dependencies>
